@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Raj
 - 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on Javascript/Typescript Projects
 - 📫 You could reach me on Github :)
 
